@@ -13,7 +13,7 @@ Este é um projeto de uma calculadora simples desenvolvido em C#. Ela permite re
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seuusuario/nome-do-repositorio.git
+    git clone https://github.com/DFGTX360/Calculadora.c-.git
     ```
 2. Abra o projeto em seu IDE de C# preferido (como Visual Studio ou Visual Studio Code).
 3. Compile e execute o projeto.
